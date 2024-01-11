@@ -1,0 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Bacillota bacteriocins database
+message: 'If you use this database, please cite it as below'
+type: dataset
+authors:
+  - given-names: Ana
+    family-names: Tedim
+identifiers:
+  - type: doi
+    value: 10.1101/2023.11.13.566347
